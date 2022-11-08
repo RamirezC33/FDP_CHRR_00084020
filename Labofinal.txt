@@ -1,0 +1,11 @@
+1. Que es ser autodidacta?
+
+R/ Es tener la disciplina de aprender por cuenta propia, para así tener un mejor conocimiento y aprender cosas nuevas por cuenta propia sin que nadie te ayude
+
+2. Investigar qué son matrices (definición, sintaxis, etc.).
+
+R/ Es una colección de datos para almacenar multiples variables, almacenando un valor por cada variable, estos siendo similares
+
+3. Lista de fuentes de donde aprender a programar
+
+R/ tutorialspoint.com, freecodecamp.org, leetcode.com, hackerrank.com
